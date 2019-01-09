@@ -6,10 +6,10 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "~2018.12.0",
-    "spryker-shop/shared-cart-page": "^1.4.0",
-    "spryker-shop/shared-cart-widget": "^1.4.0",
-    "spryker/shared-cart": "^1.5.0",
+    "spryker-feature/cart": "~201903.0",
+    "spryker-shop/shared-cart-page": "^1.4.1",
+    "spryker-shop/shared-cart-widget": "^1.4.1",
+    "spryker/shared-cart": "^1.5.1",
     "spryker/shared-cart-data-import": "^0.1.0"
   }
 }
