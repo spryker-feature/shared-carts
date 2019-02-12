@@ -10,7 +10,7 @@
     "spryker-feature/cart": "^201902.0",
     "spryker-shop/shared-cart-page": "^1.4.1",
     "spryker-shop/shared-cart-widget": "^1.4.1",
-    "spryker/shared-cart": "^1.5.1",
+    "spryker/shared-cart": "^1.6.0",
     "spryker/shared-cart-data-import": "^0.1.0"
   },
   "extra": {
