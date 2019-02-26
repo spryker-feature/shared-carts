@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/cart": "^201902.0",
+    "spryker-feature/cart": "^201903.0",
     "spryker-shop/shared-cart-page": "^1.5.0",
     "spryker-shop/shared-cart-widget": "^1.5.0",
     "spryker/shared-cart": "^1.7.0",
@@ -15,7 +15,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
