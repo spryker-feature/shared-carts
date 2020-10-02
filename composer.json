@@ -7,11 +7,8 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/persistent-cart-share-page": "^1.2.0",
-    "spryker-shop/persistent-cart-share-widget": "^1.2.0",
     "spryker-shop/shared-cart-page": "^2.4.0",
     "spryker-shop/shared-cart-widget": "^1.7.0",
-    "spryker/persistent-cart-share": "^1.0.0",
     "spryker/shared-cart": "^1.17.0",
     "spryker/shared-cart-data-import": "^0.1.0"
   },
