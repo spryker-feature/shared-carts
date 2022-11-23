@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/shared-cart-page": "^2.4.0",
         "spryker-shop/shared-cart-widget": "^1.7.0",
         "spryker/shared-cart": "^1.19.0",
