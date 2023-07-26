@@ -14,6 +14,6 @@ composer require spryker-feature/shared-carts
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [CartPermissionGroupsRestApi ^1.2.0](https://github.com/spryker/cart-permission-groups-rest-api) (Glue)
-- [SharedCartsRestApi ^1.2.0](https://github.com/spryker/shared-carts-rest-api) (Glue)
+- [CartPermissionGroupsRestApi ^1.2.0](https://github.com/spryker/cart-permission-groups-rest-api) (Legacy Glue)
+- [SharedCartsRestApi ^1.2.0](https://github.com/spryker/shared-carts-rest-api) (Legacy Glue)
 - [SharedCartsRestApiExtension ^1.0.0](https://github.com/spryker/shared-carts-rest-api-extension) (Extension)
