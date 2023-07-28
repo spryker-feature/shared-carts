@@ -2,6 +2,8 @@
 
 The Shared Carts features allows to share carts between company users.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/shared-carts-feature-overview.html)
+
 ## Installation
 
 ```
