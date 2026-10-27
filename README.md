@@ -17,5 +17,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [CartPermissionGroupsRestApi ^1.6.0](https://github.com/spryker/cart-permission-groups-rest-api) (Legacy Glue)
-- [SharedCartsRestApi ^1.6.0](https://github.com/spryker/shared-carts-rest-api) (Legacy Glue)
+- [SharedCartsRestApi ^1.7.0](https://github.com/spryker/shared-carts-rest-api) (Legacy Glue)
 - [SharedCartsRestApiExtension ^1.0.0](https://github.com/spryker/shared-carts-rest-api-extension) (Extension)
